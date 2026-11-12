@@ -37,3 +37,29 @@ The deployment screenshot is available in this repository as deployment-screensh
 
 ## Conclusion
 Successfully created and deployed a static website using GitHub Pages.
+
+## Monitoring and Maintenance
+
+The deployed website can be monitored using the following practices:
+
+- Check website availability regularly.
+- Verify that the live website loads correctly.
+- Monitor GitHub Pages deployment status.
+- Check the GitHub Actions workflow for deployment errors, if applicable.
+- Test the website after making changes.
+- Keep project files and documentation updated.
+
+## Lessons Learned
+
+During this cloud deployment project, I learned:
+
+1. How to host a static website using GitHub Pages.
+2. How to manage project files using GitHub.
+3. How cloud deployment makes websites publicly accessible.
+4. The importance of monitoring website availability.
+5. How to identify and troubleshoot deployment issues.
+6. The importance of maintaining proper technical documentation.
+
+## Conclusion
+
+This project helped me gain practical knowledge of cloud deployment, website hosting, monitoring practices, and version control. It also improved my understanding of how cloud platforms are used to deploy and maintain websites.
