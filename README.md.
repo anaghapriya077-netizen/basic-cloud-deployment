@@ -1,0 +1,44 @@
+# Final Cloud Deployment – Case Study
+
+## Project Overview
+This project demonstrates the deployment of a static website using GitHub Pages. It covers cloud deployment, configuration, monitoring considerations, and lessons learned.
+
+## Cloud Architecture
+The project uses the following architecture:
+
+- **Frontend:** HTML and CSS
+- **Version Control:** GitHub
+- **Cloud Hosting:** GitHub Pages
+- **Deployment:** GitHub repository connected to GitHub Pages
+- **Access:** Website available through a public URL.
+
+## Deployment Details
+The website is hosted using GitHub Pages.
+
+**Live Website:** https://anaghapriya077-netizen.github.io/basic-cloud-deployment/
+
+**GitHub Repository:** https://github.com/anaghapriya077-netizen/basic-cloud-deployment
+
+## Monitoring Notes
+The following monitoring practices are considered:
+
+- Regularly check website availability.
+- Verify that the website loads correctly.
+- Check deployment status after every update.
+- Review GitHub repository activity and deployment errors.
+- Maintain updated project documentation.
+
+## Lessons Learned
+Through this project, I learned:
+
+1. How cloud hosting works.
+2. How to deploy a static website using GitHub Pages.
+3. How GitHub manages project files and version control.
+4. The importance of monitoring website availability.
+5. How to document deployment architecture and processes.
+
+## Deployment Screenshot
+The deployment screenshot is available in this repository as `deployment-screenshot.png`.
+
+## Conclusion
+This project provided practical experience in cloud deployment, website hosting, monitoring concepts, and technical documentation.
